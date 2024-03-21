@@ -1,0 +1,1 @@
+# Python_dosya_isimlerini_degistirme
